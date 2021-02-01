@@ -9,4 +9,4 @@ input "C" and as a first character output "i".
 ## Requirements
 
 You need to install numpy and torch.
-Also create a folder data, in the same directory where you clone the notebook, which contains the text you want to emulate.
+Also, create a folder data, in the same directory where you clone the notebook, containing the text you want to emulate.
